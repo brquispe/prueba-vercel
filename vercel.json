@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "src": "src/index.js", 
   "builds": [
     {
       "src": "./index.js",
