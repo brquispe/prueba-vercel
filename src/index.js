@@ -8,7 +8,7 @@ app.get('', (req, res) => {
 })
 
 app.get('api/', (req, res) => {
-  res.json({ message: "prueba" })
+  res.json({ message: "Test" })
 })
 
 app.listen(process.env.PORT, () => {
